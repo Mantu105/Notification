@@ -12,7 +12,7 @@
     'license': 'LGPL-3',
     "assets": {
         "web.assets_backend": [
-            "notification/static/src/notification.js",
+            "show_notification/static/src/notification.js",
         ],
     },
     "installable": True,
