@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "notification",
+    "name": "show notification",
     "summary": "This module is used for the show the notfication",
     "description": """This module is used for the show the notfication""",
     "author": "Mantu Raj",
