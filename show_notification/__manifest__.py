@@ -7,6 +7,8 @@
     "category": "base",
     "version": "17.0",
     "depends": ["base"],
+    "price":"10.0",
+    "currency":"USD",
     'license': 'LGPL-3',
     "assets": {
         "web.assets_backend": [
