@@ -49,7 +49,6 @@ patch(FormController.prototype, {
             if (result && result.length) {
                 return result[0].name;
             }
-
             console.warn('Model name not found for:', activeModel);
             return activeModel;
         } catch (error) {
@@ -73,7 +72,6 @@ patch(FormController.prototype, {
             if (result && result.length) {
                 return result[0].name;
             }
-
             console.warn('Display name not found for model:', modelName);
             return modelName;
         } catch (error) {
