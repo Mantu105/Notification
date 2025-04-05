@@ -14,4 +14,6 @@
         ],
     },
     "installable": True,
+    'images': [
+        "static/description/icon.png"],
 }
