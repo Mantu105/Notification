@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
     "name": "show notification",
-    "summary": "This module is used for the show the notfication",
-    "description": """This module is used for the show the notfication""",
+    "summary": "This module is used for the show the dynamic notfication",
+    "description": """This module is used for the show the  dynamic notfication""",
     "author": "Mantu Raj",
     "category": "base",
     "version": "17.0",
@@ -14,4 +14,6 @@
         ],
     },
     "installable": True,
+    'images': [
+        "static/description/icon.png"],
 }
