@@ -17,5 +17,10 @@
     },
     "installable": True,
     'images': [
-        "static/description/icon.png"],
+        'static/description/icon.png',
+        'static/description/main.png',
+        'static/description/app_update.png',
+        'static/description/record_update2.png',
+        'static/description/record_update3.png',
+        ],
 }
